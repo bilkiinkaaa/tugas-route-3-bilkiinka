@@ -34,7 +34,7 @@
     <!-- /.sidebar -->
   </aside>
  <!-- Content Header (Page header) -->
- include('template.partials.judul')
+  @include('template.partials.judul')
   ><!-- /.container-fluid -->
   </section>
   <!-- Content Wrapper. Contains page content -->
